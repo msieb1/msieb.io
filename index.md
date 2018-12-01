@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Maximilian Sieb
 
-You can use the [editor on GitHub](https://github.com/msieb1/msieb.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! I am Max and a 2nd year student within the MSR program at the Robotics Institute at Carnegie Mellon University. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research is motivated by enabling robots to learn complex skills by leveraging human demonstrations. I mostly focus on visual imitation learning and model-based reinforcement learning.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
