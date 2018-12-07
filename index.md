@@ -6,13 +6,13 @@ My research is motivated by enabling robots to learn complex skills by leveragin
 
 ### Selected Projects
 
-## Probabilistic Trajectory Segmentation by Means of Hierarchical Dirichlet Process Switching Linear Dynamical Systems
+#### Probabilistic Trajectory Segmentation by Means of Hierarchical Dirichlet Process Switching Linear Dynamical Systems
 [Link to Repo and pdf](https://github.com/msieb1/switching-linear-dynamical-systems)
 
 
 
 
-### Publications
+#### Publications
 
 [Data Dreaming for Object Detection: Learning Object-Centric State Representations for Visual Imitation](pdf/ddfod.pdf) 
 
