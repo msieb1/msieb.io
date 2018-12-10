@@ -8,6 +8,7 @@ My research is motivated by enabling robots to learn complex skills by leveragin
 
 #### Probabilistic Trajectory Segmentation by Means of Hierarchical Dirichlet Process Switching Linear Dynamical Systems
 [Link to Repo](https://github.com/msieb1/switching-linear-dynamical-systems)
+
 [Link to PDF](pdf/HDP_SLDS.pdf)
       
 
