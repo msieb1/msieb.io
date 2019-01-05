@@ -1,15 +1,24 @@
 ## Maximilian Sieb
 
-Hello! I am Max and a 2nd year student within the MSR program at the Robotics Institute at Carnegie Mellon University. 
+Hello! I am Max and a 2nd year student within the MSR program at the Robotics Institute at Carnegie Mellon University, where I am glad to be co-advised by Prof. Katerina Fragkiadaki & Prof. Oliver Kroemer.
 
 My research is motivated by enabling robots to learn complex skills by leveraging human demonstrations. I mostly focus on visual imitation learning and model-based reinforcement learning.
 
 ### Selected Projects
 
 #### Probabilistic Trajectory Segmentation by Means of Hierarchical Dirichlet Process Switching Linear Dynamical Systems
+
+This project is about inferring dynamical modes of a given trajectory in a non-parametric fashion. Simply said, the algorithm tries to fit multiple linear segments within the trajectory where the number of fitted segments does not have to specified, but is inferred as well by using a non-parametric dirichlet prior.
+
 [Link to Repo](https://github.com/msieb1/switching-linear-dynamical-systems)
 
 [Link to PDF](pdf/HDP_SLDS.pdf)
+
+#### Bachelor Thesis: Design and Analysis of a Ball-Balancing Plate
+
+This thesis revolves around the design of a ball-balancing plate and the anaylsis & implemntation of different control algorithms.
+
+[Link to PDF](pdf/bachelor_thesis.pdf)
       
 
 
