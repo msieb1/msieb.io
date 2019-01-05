@@ -16,7 +16,7 @@ This project is about inferring dynamical modes of a given trajectory in a non-p
 
 #### Bachelor Thesis: Design and Analysis of a Ball-Balancing Plate
 
-This thesis revolves around the design of a ball-balancing plate and the anaylsis & implemntation of different control algorithms.
+This thesis revolves around the design of a ball-balancing plate and the anaylsis & implementation of different control algorithms. The thesis describes the entire design process: The CAD-design of the contraption, the dynamical & mechanical analysis, the control design & analysis, the microcontroller implementation, and experimental verification.
 
 [Link to PDF](pdf/bachelor_thesis.pdf)
       
