@@ -27,4 +27,4 @@ This thesis revolves around the design of a ball-balancing plate and the anaylsi
 
 [Data Dreaming for Object Detection: Learning Object-Centric State Representations for Visual Imitation](pdf/ddfod.pdf) 
 
-In this paper, we show we can use synthetically generated image data from only a few background-subtracted ground-truth images to built instance-specific object detectors robust to partial occlusions. Further, we demonstrate how we can use these detectors to imitate human demonstrations of manipulation tasks in a sample-efficient manner, where the overall imitation learning process takes less than 10 minutes.
+In this paper, we show how we can use synthetically generated image data from only a few background-subtracted ground-truth images to build instance-specific object detectors robust to partial occlusions. Further, we demonstrate how we can use these detectors to imitate human demonstrations of manipulation tasks in a sample-efficient manner, where the overall imitation learning process takes less than 10 minutes.
