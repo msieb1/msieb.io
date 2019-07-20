@@ -21,7 +21,7 @@ I have recently obtained my Master's degree in Robotics, and my Master's thesis 
       
 #### Bachelor Thesis: Design and Analysis of a Ball-Balancing Plate
 
-This thesis revolves around the design of a ball-balancing plate and the anaylsis & implementation of different control algorithms. The thesis describes the entire design process: The CAD-design of the contraption, the dynamical & mechanical analysis, the control design & analysis, the microcontroller implementation, and experimental verification. The thesis document can be found [here]((pdf/bachelor_thesis.pdf). 
+This thesis revolves around the design of a ball-balancing plate and the anaylsis & implementation of different control algorithms. The thesis describes the entire design process: The CAD-design of the contraption, the dynamical & mechanical analysis, the control design & analysis, the microcontroller implementation, and experimental verification. The thesis document can be found [here](pdf/bachelor_thesis.pdf). 
 
 ### Publications
 
