@@ -3,7 +3,7 @@ I am Max, and I am currently working on computer vision and reinforcement & imit
 I recently graduated from the MSR program at the Robotics Institute at Carnegie Mellon University, where I was glad to have been co-advised by Prof. Katerina Fragkiadaki & Prof. Oliver Kroemer. 
 
 
-My research is motivated by enabling robots to learn complex skills by leveraging human demonstrations. I mostly focus on visual imitation learning and model-based reinforcement learning.
+My research is motivated by enabling robots to learn complex skills by leveraging computer vision & human demonstrations. I mostly focus on visual imitation learning and model-based reinforcement learning.
 
 ### Publications
 #### [Graph-Structured Visual Imitation](https://arxiv.org/pdf/1907.05518.pdf)
