@@ -15,9 +15,12 @@ This project is about inferring dynamical modes of a given trajectory in a non-p
 
 [Link to PDF](pdf/HDP_SLDS.pdf)
 
+#### Aligning Word Embeddings of Different Languages within a Shared Embedding Space
+Learning translations between different languages has drawn a lot of focus recently. In this work, we examined how we can leverage shared embedding spaces of different languages to learn better translations overall. Do multilingual people "think" by subconsciously translating each language into a common embedding space, or is each language pair individually translated, i.e., our mind has a set dictionary for each translation pair? This project is motivated by this line of thinking: the key reasoning here is that different language translations could be thought of operating in an embedding space in which all languages can be embedded to some extent. Ideally, this would improve translation between language pairs by leveraging knowledge of multiple dictionaries which is encoded in the shared embedding space. 
+
 #### Master Thesis: Visual Imitation Learning for Robot Manipulation
 
-I have recently obtained my Master's degree in Robotics, and my Master's thesis on Visual Imitation Learning for Robot Manipulation can be found [here]( https://www.ri.cmu.edu/publications/visual-imitation-learning-for-robot-manipulation/).
+I have recently obtained my Master's degree in Robotics, and my Master's thesis on Visual Imitation Learning for Robot Manipulation can be found on the official CMU website via [this]( https://www.ri.cmu.edu/publications/visual-imitation-learning-for-robot-manipulation/) link. The pdf can be directly accessed [here](pdf/MSR_thesis_final.pdf).
       
 #### Bachelor Thesis: Design and Analysis of a Ball-Balancing Plate
 
