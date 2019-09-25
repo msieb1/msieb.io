@@ -11,7 +11,7 @@ My research is motivated by enabling robots to learn complex skills by leveragin
 *IEEE-RAS 18th International Conference on Humanoid Robots (Humanoids)*
 
 In this paper, we show how we can use synthetically generated image data from only a few background-subtracted ground-truth images to build instance-specific object detectors robust to partial occlusions. Further, we demonstrate how we can use these detectors to imitate human demonstrations of manipulation tasks in a sample-efficient manner, where the overall imitation learning process takes less than 10 minutes.
-![](assets/data_dreaming.png)
+![](assets/data_dreaming_2.png)
 
 #### [Graph-Structured Visual Imitation](https://arxiv.org/pdf/1907.05518.pdf)
 *to appear in Conference on Robot Learning, 2019*
