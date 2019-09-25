@@ -23,7 +23,7 @@ In this paper, we show how we can use synthetically generated image data from on
 #### [Master Thesis: Visual Imitation Learning for Robot Manipulation](pdf/MSR_thesis_final.pdf)
 
 I have recently obtained my Master's degree in Robotics, and my Master's thesis on Visual Imitation Learning for Robot Manipulation can be found on the official CMU website via [this]( https://www.ri.cmu.edu/publications/visual-imitation-learning-for-robot-manipulation/) link.
-[](assets/master_thesis_vis.png)
+![](assets/master_thesis_vis.png)
 
 #### [Probabilistic Trajectory Segmentation by Means of Hierarchical Dirichlet Process Switching Linear Dynamical Systems](pdf/HDP_SLDS.pdf)
 
@@ -37,4 +37,4 @@ Learning translations between different languages has drawn a lot of focus recen
 #### [Bachelor Thesis: Design and Analysis of a Ball-Balancing Plate](pdf/bachelor_thesis.pdf)
 
 This thesis revolves around the design of a ball-balancing plate and the anaylsis & implementation of different control algorithms. The thesis describes the entire design process: The CAD-design of the contraption, the dynamical & mechanical analysis, the control design & analysis, the microcontroller implementation, and experimental verification.
-[](assets/bachelor_thesis_vis.png)
+![](assets/bachelor_thesis_vis.png)
