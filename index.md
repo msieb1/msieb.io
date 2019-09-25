@@ -1,6 +1,4 @@
 ## Maximilian Sieb
-![](assets/profile_pic.jpg)
-
 Hello! I am Max and a 2nd year student within the MSR program at the Robotics Institute at Carnegie Mellon University, where I am glad to be co-advised by Prof. Katerina Fragkiadaki & Prof. Oliver Kroemer. 
 
 
