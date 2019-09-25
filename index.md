@@ -1,5 +1,6 @@
 ## Maximilian Sieb
-Hello! I am Max and a 2nd year student within the MSR program at the Robotics Institute at Carnegie Mellon University, where I am glad to be co-advised by Prof. Katerina Fragkiadaki & Prof. Oliver Kroemer. 
+Hello! I am Max, and you can find me at Covariant, where I am working on computer vision and reinforcement & imitation learning for robot manipulation.
+I recently graduated from the MSR program at the Robotics Institute at Carnegie Mellon University, where I was glad to have been co-advised by Prof. Katerina Fragkiadaki & Prof. Oliver Kroemer. 
 
 
 My research is motivated by enabling robots to learn complex skills by leveraging human demonstrations. I mostly focus on visual imitation learning and model-based reinforcement learning.
