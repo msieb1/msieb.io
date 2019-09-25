@@ -1,7 +1,5 @@
 title: Maximilian Sieb
 theme: jekyll-theme-minimal
+logo: assets/profile_pic.png
+description: Research Engineer at Covariant
 google_analytics: UA-133437620-1
-
-social-network-links:
-  rss: true
-  email: "someone@example.com"
