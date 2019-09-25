@@ -16,7 +16,7 @@ In this paper, we propose a graph-structured state representation for visual imi
 *IEEE-RAS 18th International Conference on Humanoid Robots (Humanoids)*
 
 In this paper, we show how we can use synthetically generated image data from only a few background-subtracted ground-truth images to build instance-specific object detectors robust to partial occlusions. Further, we demonstrate how we can use these detectors to imitate human demonstrations of manipulation tasks in a sample-efficient manner, where the overall imitation learning process takes less than 10 minutes.
-![](assets/data_dreaming_2.png)
+![](assets/data_dreaming.png)
 
 
 ### Selected Projects
