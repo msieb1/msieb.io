@@ -6,6 +6,18 @@ Hello! I am Max and a 2nd year student within the MSR program at the Robotics In
 
 My research is motivated by enabling robots to learn complex skills by leveraging human demonstrations. I mostly focus on visual imitation learning and model-based reinforcement learning.
 
+### Publications
+
+#### [Data Dreaming for Object Detection: Learning Object-Centric State Representations for Visual Imitation](https://www.cs.cmu.edu/~katef/papers/datadreamHumanoids2018.pdf) 
+*IEEE-RAS 18th International Conference on Humanoid Robots (Humanoids)*
+
+In this paper, we show how we can use synthetically generated image data from only a few background-subtracted ground-truth images to build instance-specific object detectors robust to partial occlusions. Further, we demonstrate how we can use these detectors to imitate human demonstrations of manipulation tasks in a sample-efficient manner, where the overall imitation learning process takes less than 10 minutes.
+
+#### [Graph-Structured Visual Imitation](https://arxiv.org/pdf/1907.05518.pdf)
+*to appear in Conference on Robot Learning, 2019*
+
+In this paper, we propose a graph-structured state representation for visual imitation learning. We show we can use different visual entities of various granularities to obtain a state representation that can be used for reinforcement learning to learn manipulation skills within a few minutes of real-life policy rollouts.
+
 ### Selected Projects
 
 #### [Probabilistic Trajectory Segmentation by Means of Hierarchical Dirichlet Process Switching Linear Dynamical Systems](pdf/HDP_SLDS.pdf)
@@ -23,13 +35,3 @@ I have recently obtained my Master's degree in Robotics, and my Master's thesis 
 #### [Bachelor Thesis: Design and Analysis of a Ball-Balancing Plate](pdf/bachelor_thesis.pdf)
 
 This thesis revolves around the design of a ball-balancing plate and the anaylsis & implementation of different control algorithms. The thesis describes the entire design process: The CAD-design of the contraption, the dynamical & mechanical analysis, the control design & analysis, the microcontroller implementation, and experimental verification.
-
-### Publications
-
-#### [Data Dreaming for Object Detection: Learning Object-Centric State Representations for Visual Imitation](https://www.cs.cmu.edu/~katef/papers/datadreamHumanoids2018.pdf) 
-
-In this paper, we show how we can use synthetically generated image data from only a few background-subtracted ground-truth images to build instance-specific object detectors robust to partial occlusions. Further, we demonstrate how we can use these detectors to imitate human demonstrations of manipulation tasks in a sample-efficient manner, where the overall imitation learning process takes less than 10 minutes.
-
-#### [Graph-Structured Visual Imitation](https://arxiv.org/pdf/1907.05518.pdf)
-
-In this paper, we propose a graph-structured state representation for visual imitation learning. We show we can use different visual entities of various granularities to obtain a state representation that can be used for reinforcement learning to learn manipulation skills within a few minutes of real-life policy rollouts.
