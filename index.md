@@ -25,10 +25,10 @@ This thesis revolves around the design of a ball-balancing plate and the anaylsi
 
 ### Publications
 
-[Data Dreaming for Object Detection: Learning Object-Centric State Representations for Visual Imitation](https://www.cs.cmu.edu/~katef/papers/datadreamHumanoids2018.pdf) 
+#### [Data Dreaming for Object Detection: Learning Object-Centric State Representations for Visual Imitation](https://www.cs.cmu.edu/~katef/papers/datadreamHumanoids2018.pdf) 
 
 In this paper, we show how we can use synthetically generated image data from only a few background-subtracted ground-truth images to build instance-specific object detectors robust to partial occlusions. Further, we demonstrate how we can use these detectors to imitate human demonstrations of manipulation tasks in a sample-efficient manner, where the overall imitation learning process takes less than 10 minutes.
 
-[Graph-Structured Visual Imitation](https://arxiv.org/pdf/1907.05518.pdf)
+#### [Graph-Structured Visual Imitation](https://arxiv.org/pdf/1907.05518.pdf)
 
 In this paper, we propose a graph-structured state representation for visual imitation learning. We show we can use different visual entities of various granularities to obtain a state representation that can be used for reinforcement learning to learn manipulation skills within a few minutes of real-life policy rollouts.
