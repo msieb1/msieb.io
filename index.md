@@ -8,7 +8,7 @@ My research is motivated by enabling robots to learn complex skills by leveragin
 ### Publications
 #### [Graph-Structured Visual Imitation](https://msieb1.github.io/visual-entity-graphs/)
 *to appear in Conference on Robot Learning, 2019*
-In this [paper](https://arxiv.org/pdf/1907.05518.pdf), we propose a graph-structured state representation for visual imitation learning. We show we can use different visual entities of various granularities to obtain a state representation that can be used for reinforcement learning to learn manipulation skills within a few minutes of real-life policy rollouts.
+In this [paper](https://arxiv.org/pdf/1907.05518), we propose a graph-structured state representation for visual imitation learning. We show we can use different visual entities of various granularities to obtain a state representation that can be used for reinforcement learning to learn manipulation skills within a few minutes of real-life policy rollouts.
 ![](assets/graph-2.png)
 
 #### [Data Dreaming for Object Detection: Learning Object-Centric State Representations for Visual Imitation](https://www.cs.cmu.edu/~katef/papers/datadreamHumanoids2018.pdf) 
