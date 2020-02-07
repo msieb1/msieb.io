@@ -6,14 +6,14 @@ I recently graduated from the MSR program at the Robotics Institute at Carnegie 
 My research is motivated by enabling robots to learn complex skills by leveraging computer vision & human demonstrations. I mostly focus on visual imitation learning and model-based reinforcement learning.
 
 ### Publications
-#### [Embodied Language Grounding with Implicit 3D Visual Feature Representations](https://arxiv.org/pdf/1910.01210.pdf)
+### [Embodied Language Grounding with Implicit 3D Visual Feature Representations](https://arxiv.org/pdf/1910.01210.pdf)
 Mihir Prabhudesai, Hsiao-Yu Fish Tung, Syed Ashar Javed, Maximilian Sieb, Adam W. Harley , Katerina Fragkiadaki
 
 In this paper, we propose a computational model of simulation semantics that associate language utterances to 3D visual abstractions of the scene they describe. We encode the visual abstractions via 3-dimensional visual feature maps that we obtain via view prediction from different RGB images of the scene in a self-supervised manner.
 
 ![](assets/embodied_grounding.png)
 
-#### [Graph-Structured Visual Imitation](https://msieb1.github.io/visual-entity-graphs/)
+### [Graph-Structured Visual Imitation](https://msieb1.github.io/visual-entity-graphs/)
 Maximilian Sieb, Zhou Xian, Audrey Huang, Oliver Kroemer, Katerina Fragkiadaki
 
 **Conference on Robot Learning (CoRL), 2019, Osaka**
@@ -22,7 +22,7 @@ In this [paper](https://arxiv.org/pdf/1907.05518), we propose a graph-structured
 
 ![](assets/graph-2.png)
 
-#### [Data Dreaming for Object Detection: Learning Object-Centric State Representations for Visual Imitation](http://www.cs.columbia.edu/~allen/S19/Student_Papers/fragiadaki_object_mask.pdf) 
+### [Data Dreaming for Object Detection: Learning Object-Centric State Representations for Visual Imitation](http://www.cs.columbia.edu/~allen/S19/Student_Papers/fragiadaki_object_mask.pdf) 
 Maximilian Sieb, Katerina Fragkiadaki
 
 **IEEE-RAS 18th International Conference on Humanoid Robots (Humanoids), 2018, Beijing**
@@ -33,21 +33,21 @@ In this paper, we show how we can use synthetically generated image data from on
 
 
 ### Selected Projects
-#### [Master Thesis: Visual Imitation Learning for Robot Manipulation](pdf/MSR_thesis_final.pdf)
+### [Master Thesis: Visual Imitation Learning for Robot Manipulation](pdf/MSR_thesis_final.pdf)
 
 I have recently obtained my Master's degree in Robotics, and my Master's thesis on Visual Imitation Learning for Robot Manipulation can be found on the official CMU website via [this]( https://www.ri.cmu.edu/publications/visual-imitation-learning-for-robot-manipulation/) link.
 ![](assets/master_thesis_vis.png)
 
-#### [Probabilistic Trajectory Segmentation by Means of Hierarchical Dirichlet Process Switching Linear Dynamical Systems](pdf/HDP_SLDS.pdf)
+### [Probabilistic Trajectory Segmentation by Means of Hierarchical Dirichlet Process Switching Linear Dynamical Systems](pdf/HDP_SLDS.pdf)
 
 This project is about inferring dynamical modes of a given trajectory in a non-parametric fashion. Simply said, the algorithm tries to fit multiple linear segments within the trajectory where the number of fitted segments does not have to specified, but is inferred as well by using a non-parametric dirichlet prior([repo](https://github.com/msieb1/switching-linear-dynamical-systems)).
 ![](assets/segmentation.png)
 
-#### [Aligning Word Embeddings of Different Languages within a Shared Embedding Space](pdf/aligning-word-embeddings.pdf)
+### [Aligning Word Embeddings of Different Languages within a Shared Embedding Space](pdf/aligning-word-embeddings.pdf)
 Learning translations between different languages has drawn a lot of focus recently. In this work, we examined how we can leverage shared embedding spaces of different languages to learn better translations overall. Do multilingual people "think" by subconsciously translating each language into a common embedding space, or is each language pair individually translated, i.e., our mind has a set dictionary for each translation pair? This project is motivated by this line of thinking: the key reasoning here is that different language translations could be thought of operating in an embedding space in which all languages can be embedded to some extent. Ideally, this would improve translation between language pairs by leveraging knowledge of multiple dictionaries which is encoded in the shared embedding space. 
 ![](assets/aligning.png)
       
-#### [Bachelor Thesis: Design and Analysis of a Ball-Balancing Plate](pdf/bachelor_thesis.pdf)
+### [Bachelor Thesis: Design and Analysis of a Ball-Balancing Plate](pdf/bachelor_thesis.pdf)
 
 This thesis revolves around the design of a ball-balancing plate and the anaylsis & implementation of different control algorithms. The thesis describes the entire design process: The CAD-design of the contraption, the dynamical & mechanical analysis, the control design & analysis, the microcontroller implementation, and experimental verification.
 ![](assets/bachelor_thesis_vis.png)
