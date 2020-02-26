@@ -9,6 +9,8 @@ My research is motivated by enabling robots to learn complex skills by leveragin
 ### [Embodied Language Grounding with Implicit 3D Visual Feature Representations](https://arxiv.org/pdf/1910.01210.pdf)
 Mihir Prabhudesai, Hsiao-Yu Fish Tung, Syed Ashar Javed, Maximilian Sieb, Adam W. Harley , Katerina Fragkiadaki
 
+**to appear in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, USA, June 2020**
+
 In this paper, we propose a computational model of simulation semantics that associate language utterances to 3D visual abstractions of the scene they describe. We encode the visual abstractions via 3-dimensional visual feature maps that we obtain via view prediction from different RGB images of the scene in a self-supervised manner.
 
 ![](assets/embodied_grounding.png)
