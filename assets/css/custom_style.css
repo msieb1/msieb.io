@@ -1,0 +1,23 @@
+.contact-icon.linkedin{
+    margin-top: 3px;
+}
+
+.contact-icon.github {
+    margin-top: 4px;
+}
+
+.contact-icon.scholar {
+    margin-top: 4px;
+}
+
+.contact-icon.twitter {
+    margin-top: 3px;
+}
+
+.pub-img {
+    margin: 10px 0 10px 0;
+}
+
+.profile-img {
+    max-height: 280px;
+}

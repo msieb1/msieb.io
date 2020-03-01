@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+
+    <!-- Begin Jekyll SEO tag v2.2.3 -->
+    <title>{{ page.title }}</title>
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:locale" content="en_US" />
+    <link rel="canonical" href="http://jacky.io{{ page.url }}" />
+    <meta property="og:url" content="http://jacky.io{{ page.url }}" />
+    <meta property="og:site_name" content="{{ page.title }}" />
+    <script type="application/ld+json">
+    {"@context":"http://schema.org","@type":"WebSite","name":"Jacky Liang Blog","headline":"{{ page.title }}","url":"http://jacky.io{{ page.url}}"}</script>
+    <!-- End Jekyll SEO tag -->
+    
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.0/css/academicons.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="/assets/css/custom_style.css">
+    <link rel="stylesheet" href="/assets/css/blog.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Global site tag (gtag.js) - Google Analytics --> 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-122176521-1"></script> 
+    <script> 
+    	window.dataLayer = window.dataLayer || [];  
+	function gtag(){
+		dataLayer.push(arguments);
+	}
+	gtag('js', new Date());  
+	gtag('config', 'UA-122176521-1'); 
+    </script>
+
+    <!-- MathJax -->
+    <script type="text/javascript" async 
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML" async>
+    </script>
+  </head>
+  <body>
+    <div class="wrapper">
+        <div class="blog-header">
+            <h3> Jacky Liang Blog </h3>
+            <div class="nav">
+                <h3><a href="/">About </a></h3>
+                <h3><a href="/blog">Home</a></h3>
+            </div>
+            <hr>
+        </div>
+        
+       <div class="blog-content">
+            <h1> {{ page.title }} </h1> 
+            <h4> {{ page.date }} </h4>
+            {{ content }}
+       </div>
+
+      <footer class="blog">
+            <hr>
+            <h4> Jacky Liang Blog </h4>
+            <div class="credit">
+                <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+            </div>
+      </footer>
+    </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+
+
+  {% if site.google_analytics %}
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+    </script>
+  {% endif %}
+  </body>
+</html>

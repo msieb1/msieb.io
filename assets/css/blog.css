@@ -1,0 +1,63 @@
+.blog-header {
+    margin: 10px 0px 10px 0px;
+}
+
+.blog-header h3 {
+    color: #797979;
+    float: left;
+}
+
+.blog-header .nav {
+    text-align: right;
+    float: right;
+}
+
+.blog-header .nav h3 {
+    float: left;
+    margin-left: 20px;
+}
+
+.blog-header hr {
+    width: 100%;
+}
+
+.blog-content {
+    clear: both;
+}
+
+footer.blog {
+    position: inherit;
+    float: none;
+    width: 100%;
+}
+
+footer.blog hr {
+    width: 100%;
+}
+
+footer.blog h4 {
+    float: left;
+    color: #797979;
+}
+
+footer.blog .credit {
+    float: right;
+}
+
+.blog-post-list h1 {
+    margin-bottom: 9px;
+    margin-right: 5px;
+    float: left;
+}
+
+.blog-post-list h3 {
+    margin-top: 9px;
+    margin-bottom: 9px;
+    float: left;
+    color: #797979;
+}
+
+
+.blog-post-list p {
+    clear: both;
+}
