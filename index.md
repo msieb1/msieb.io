@@ -6,27 +6,27 @@ My research is motivated by enabling robots to learn complex skills by leveragin
 
 ### Publications
 #### [Embodied Language Grounding with Implicit 3D Visual Feature Representations](https://arxiv.org/pdf/1910.01210.pdf)
-Mihir Prabhudesai, Hsiao-Yu Fish Tung, Syed Ashar Javed, **Maximilian Sieb**, Adam W. Harley , Katerina Fragkiadaki  
-To appear in IEEE Conference on Computer Vision and Pattern Recognition (CVPR)  
-Seattle, USA, June 2020
+Mihir Prabhudesai, Hsiao-Yu Fish Tung, Syed Ashar Javed, **Maximilian Sieb**, Adam W. Harley , Katerina Fragkiadaki.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+Seattle, USA, June 2020.
 
 In this paper, we propose a computational model of simulation semantics that associate language utterances to 3D visual abstractions of the scene they describe. We encode the visual abstractions via 3-dimensional visual feature maps that we obtain via view prediction from different RGB images of the scene in a self-supervised manner.
 
 ![](assets/embodied_grounding.png)
 
 #### [Graph-Structured Visual Imitation](https://msieb1.github.io/visual-entity-graphs/)
-**Maximilian Sieb**, Zhou Xian, Audrey Huang, Oliver Kroemer, Katerina Fragkiadaki  
-Conference on Robot Learning (CoRL)  
-Osaka, Japan, November 2019
+**Maximilian Sieb**, Zhou Xian, Audrey Huang, Oliver Kroemer, Katerina Fragkiadaki.
+Conference on Robot Learning (CoRL). 
+Osaka, Japan, November 2019.
 
 In this [paper](https://arxiv.org/pdf/1907.05518), we propose a graph-structured state representation for visual imitation learning. We show we can use different visual entities of various granularities to obtain a state representation that can be used for reinforcement learning to learn manipulation skills within a few minutes of real-life policy rollouts.
 
 ![](assets/graph-2.png)
 
 #### [Data Dreaming for Object Detection: Learning Object-Centric State Representations for Visual Imitation](http://www.cs.columbia.edu/~allen/S19/Student_Papers/fragiadaki_object_mask.pdf) 
-**Maximilian Sieb**, Katerina Fragkiadaki  
-IEEE-RAS 18th International Conference on Humanoid Robots (Humanoids)  
-Beijing, China, November, 2018
+**Maximilian Sieb**, Katerina Fragkiadaki.
+IEEE-RAS 18th International Conference on Humanoid Robots (Humanoids).
+Beijing, China, November, 2018.
 
 In this paper, we show how we can use synthetically generated image data from only a few background-subtracted ground-truth images to build instance-specific object detectors robust to partial occlusions. Further, we demonstrate how we can use these detectors to imitate human demonstrations of manipulation tasks in a sample-efficient manner, where the overall imitation learning process takes less than 10 minutes.
 
