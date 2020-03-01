@@ -34,7 +34,7 @@ In this paper, we show how we can use synthetically generated image data from on
 
 #### [Probabilistic Trajectory Segmentation by Means of Hierarchical Dirichlet Process Switching Linear Dynamical Systems](pdf/HDP_SLDS.pdf)
 
-This project is about inferring dynamical modes of a given trajectory in a non-parametric fashion. Simply said, the algorithm tries to fit multiple linear segments within the trajectory where the number of fitted segments does not have to specified, but is inferred as well by using a non-parametric dirichlet prior([repo](https://github.com/msieb1/switching-linear-dynamical-systems)).
+This project is about inferring dynamical modes of a given trajectory in a non-parametric fashion. Simply said, the algorithm tries to fit multiple linear segments within the trajectory where the number of fitted segments does not have to specified, but is inferred as well by using a non-parametric dirichlet prior ([code](https://github.com/msieb1/switching-linear-dynamical-systems)).
 ![](assets/segmentation.png)
 
 
