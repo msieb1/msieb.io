@@ -20,7 +20,7 @@ In this paper, we propose a computational model of simulation semantics that ass
 Osaka, Japan, November 2019. 
 Spotlight presentation ([slides](pdf/corl_presentation.pdf)).
 
-In this [paper](https://arxiv.org/pdf/1907.05518), we propose a graph-structured state representation for visual imitation learning. We show we can use different visual entities of various granularities to obtain a state representation that can be used for reinforcement learning to learn manipulation skills within a few minutes of real-life policy rollouts.
+In this [paper](https://arxiv.org/pdf/1907.05518), we propose a graph-structured state representation for visual imitation learning. We show how we can leverage different visual entities of various granularities to obtain a state representation that can be used for reinforcement learning to learn manipulation skills within a few minutes of real-life policy rollouts.
 
 ![](assets/graph-2.png)
 
@@ -38,7 +38,7 @@ In this paper, we show how we can use synthetically generated image data from on
 **Maximilian Sieb**, Matthias Schultheis, Sebastian Szelag, Rudolf Lioutikov, Jan Peters.
 arXiv:1806.06063. May, 2018.
 
-This project is about inferring dynamical modes of a given trajectory in a non-parametric fashion. Simply said, the algorithm tries to fit multiple linear segments within the trajectory where the number of fitted segments does not have to specified, but is inferred as well by using a non-parametric dirichlet prior ([code](https://github.com/msieb1/switching-linear-dynamical-systems)).
+This paper is about inferring dynamical modes of a given trajectory in a non-parametric fashion. Simply said, the algorithm tries to fit multiple linear segments within the trajectory where the number of fitted segments does not have to specified, but is inferred as well by using a non-parametric dirichlet prior ([code](https://github.com/msieb1/switching-linear-dynamical-systems)).
 ![](assets/segmentation.png)
 
 
