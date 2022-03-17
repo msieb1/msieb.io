@@ -11,8 +11,7 @@ Mihir Prabhudesai, Hsiao-Yu Fish Tung, Syed Ashar Javed, **Maximilian Sieb**, Ad
 Seattle, USA, June 2020.
 
 In this [paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Prabhudesai_Embodied_Language_Grounding_With_3D_Visual_Feature_Representations_CVPR_2020_paper.pdf), we propose a computational model of simulation semantics that associate language utterances to 3D visual abstractions of the scene they describe. We encode the visual abstractions via 3-dimensional visual feature maps that we obtain via view prediction from different RGB images of the scene in a self-supervised manner.
-
-![](assets/embodied_grounding.png | width=100)
+<img src="assets/embodied_grounding.png" width=100>
 
 #### [Graph-Structured Visual Imitation](https://msieb1.github.io/visual-entity-graphs/)
 **Maximilian Sieb**, Zhou Xian, Audrey Huang, Oliver Kroemer, Katerina Fragkiadaki.
