@@ -4,6 +4,8 @@ I graduated from the MSR program at the Robotics Institute at Carnegie Mellon Un
 
 My research is motivated by enabling robots to learn complex skills by leveraging computer vision & human demonstrations. I mostly focus on visual imitation learning and model-based reinforcement learning.
 
+Check out an overview of my publications, patents & projects below!
+
 ### Publications
 #### [Embodied Language Grounding with Implicit 3D Visual Feature Representations](https://mihirp1998.github.io/project_pages/emblang/)
 Mihir Prabhudesai, Hsiao-Yu Fish Tung, Syed Ashar Javed, **Maximilian Sieb**, Adam W. Harley , Katerina Fragkiadaki.
