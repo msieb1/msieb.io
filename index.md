@@ -22,7 +22,7 @@ Spotlight presentation ([slides](pdf/corl_presentation.pdf)).
 
 In this [paper](https://arxiv.org/pdf/1907.05518), we propose a graph-structured state representation for visual imitation learning. We show how we can leverage different visual entities of various granularities to obtain a state representation that can be used for reinforcement learning to learn manipulation skills within a few minutes of real-life policy rollouts.
 
-<img src="assets/graph-2.png" width=600>
+<img src="assets/graph-2.png" width=800>
 
 #### [Data Dreaming for Object Detection: Learning Object-Centric State Representations for Visual Imitation](http://www.cs.columbia.edu/~allen/S19/Student_Papers/fragiadaki_object_mask.pdf) 
 **Maximilian Sieb**, Katerina Fragkiadaki.
