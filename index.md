@@ -1,6 +1,6 @@
 ## Hello!
-I am Max, and I am currently working on computer vision and reinforcement & imitation learning for robot manipulation at *Covariant*.
-I recently graduated from the MSR program at the Robotics Institute at Carnegie Mellon University, where I was glad to have been co-advised by Prof. Katerina Fragkiadaki & Prof. Oliver Kroemer. 
+I am Max, and I am currently working on computer vision and reinforcement & imitation learning for robot manipulation at Covariant.
+I graduated from the MSR program at the Robotics Institute at Carnegie Mellon University, where I was glad to have been co-advised by Prof. Katerina Fragkiadaki & Prof. Oliver Kroemer. 
 
 My research is motivated by enabling robots to learn complex skills by leveraging computer vision & human demonstrations. I mostly focus on visual imitation learning and model-based reinforcement learning.
 
