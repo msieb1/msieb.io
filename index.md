@@ -22,7 +22,7 @@ Spotlight presentation ([slides](pdf/corl_presentation.pdf)).
 
 In this [paper](https://arxiv.org/pdf/1907.05518), we propose a graph-structured state representation for visual imitation learning. We show how we can leverage different visual entities of various granularities to obtain a state representation that can be used for reinforcement learning to learn manipulation skills within a few minutes of real-life policy rollouts.
 
-<img src="assets/graph-2.png" width=800>
+<img src="assets/graph-2.png" width=600>
 
 #### [Data Dreaming for Object Detection: Learning Object-Centric State Representations for Visual Imitation](http://www.cs.columbia.edu/~allen/S19/Student_Papers/fragiadaki_object_mask.pdf) 
 **Maximilian Sieb**, Katerina Fragkiadaki.
@@ -32,7 +32,7 @@ Oral presentation ([slides](pdf/humanoids_presentation.pdf)).
 
 In this paper, we show how we can use synthetically generated image data from only a few background-subtracted ground-truth images to build instance-specific object detectors robust to partial occlusions. Further, we demonstrate how we can use these detectors to imitate human demonstrations of manipulation tasks in a sample-efficient manner, where the overall imitation learning process takes less than 10 minutes.
 
-<img src="assets/data_dreaming.png" width=800>
+<img src="assets/data_dreaming.png" width=500>
 
 
 #### [Probabilistic Trajectory Segmentation by Means of Hierarchical Dirichlet Process Switching Linear Dynamical Systems](https://arxiv.org/pdf/1806.06063.pdf)
