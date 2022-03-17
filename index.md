@@ -22,7 +22,7 @@ Spotlight presentation ([slides](pdf/corl_presentation.pdf)).
 
 In this [paper](https://arxiv.org/pdf/1907.05518), we propose a graph-structured state representation for visual imitation learning. We show how we can leverage different visual entities of various granularities to obtain a state representation that can be used for reinforcement learning to learn manipulation skills within a few minutes of real-life policy rollouts.
 
-![](assets/graph-2.png)
+<img src="(assets/graph-2.png" width=800>
 
 #### [Data Dreaming for Object Detection: Learning Object-Centric State Representations for Visual Imitation](http://www.cs.columbia.edu/~allen/S19/Student_Papers/fragiadaki_object_mask.pdf) 
 **Maximilian Sieb**, Katerina Fragkiadaki.
@@ -32,7 +32,8 @@ Oral presentation ([slides](pdf/humanoids_presentation.pdf)).
 
 In this paper, we show how we can use synthetically generated image data from only a few background-subtracted ground-truth images to build instance-specific object detectors robust to partial occlusions. Further, we demonstrate how we can use these detectors to imitate human demonstrations of manipulation tasks in a sample-efficient manner, where the overall imitation learning process takes less than 10 minutes.
 
-![](assets/data_dreaming.png)
+<img src="(assets/data_dreaming.png" width=800>
+
 
 #### [Probabilistic Trajectory Segmentation by Means of Hierarchical Dirichlet Process Switching Linear Dynamical Systems](https://arxiv.org/pdf/1806.06063.pdf)
 **Maximilian Sieb**, Matthias Schultheis, Sebastian Szelag, Rudolf Lioutikov, Jan Peters.
@@ -40,13 +41,15 @@ In this paper, we show how we can use synthetically generated image data from on
 
 This work is about inferring dynamical modes of a given trajectory in a non-parametric fashion. Simply said, the algorithm tries to fit multiple linear segments within the trajectory where the number of fitted segments does not have to specified, but is inferred as well by using a non-parametric dirichlet prior ([code](https://github.com/msieb1/switching-linear-dynamical-systems)).
 
-![](assets/segmentation.png)
+<img src="(assets/segmentation.png" width=800>
+
 
 ### Patents
 #### [Identifying scene correspondences with neural networks](https://patentimages.storage.googleapis.com/fe/60/5f/cec7d7ac8f498e/US20210233258A1.pdf) 
 The idea here is the following: We have a bin from which we wish to pick items. For every pick, we want to avoid picking items which we have failed to pick before. However, because items in the bin might move around between subsequent picks, it is not obvious how to correlate objects across different picks to keep track of the failure count. In this work, we introduce a deep learning based approach to predict correspondences of objects given two scenes.
 
-![](assets/patent_scene_correspondence_2.png)
+<img src="(assets/patent_scene_correspondence_2.png" width=800>
+
 
 ### Selected Projects
 #### [Master Thesis: Visual Imitation Learning for Robot Manipulation](pdf/MSR_thesis_final.pdf)
