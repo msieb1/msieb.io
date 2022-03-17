@@ -46,7 +46,7 @@ This work is about inferring dynamical modes of a given trajectory in a non-para
 #### [Identifying scene correspondences with neural networks](https://patentimages.storage.googleapis.com/fe/60/5f/cec7d7ac8f498e/US20210233258A1.pdf) 
 The idea here is the following: We have a bin from which we wish to pick items. For every pick, we want to avoid picking items which we have failed to pick before. However, because items in the bin might move around between subsequent picks, it is not obvious how to correlate objects across different picks to keep track of the failure count. In this work, we introduce a deep learning based approach to predict correspondences of objects given two scenes.
 
-![](assets/patent_scene_correspondence.png)
+![](assets/patent_scene_correspondence_2.png)
 
 ### Selected Projects
 #### [Master Thesis: Visual Imitation Learning for Robot Manipulation](pdf/MSR_thesis_final.pdf)
