@@ -41,14 +41,14 @@ In this paper, we show how we can use synthetically generated image data from on
 
 This work is about inferring dynamical modes of a given trajectory in a non-parametric fashion. Simply said, the algorithm tries to fit multiple linear segments within the trajectory where the number of fitted segments does not have to specified, but is inferred as well by using a non-parametric dirichlet prior ([code](https://github.com/msieb1/switching-linear-dynamical-systems)).
 
-<img src="assets/segmentation.png" width=800>
+<img src="assets/segmentation.png" width=500>
 
 
 ### Patents
 #### [Identifying scene correspondences with neural networks](https://patentimages.storage.googleapis.com/fe/60/5f/cec7d7ac8f498e/US20210233258A1.pdf) 
 The idea here is the following: We have a bin from which we wish to pick items. For every pick, we want to avoid picking items which we have failed to pick before. However, because items in the bin might move around between subsequent picks, it is not obvious how to correlate objects across different picks to keep track of the failure count. In this work, we introduce a deep learning based approach to predict correspondences of objects given two scenes.
 
-<img src="assets/patent_scene_correspondence_2.png" width=800>
+<img src="assets/patent_scene_correspondence_2.png" width=600>
 
 
 ### Selected Projects
