@@ -51,7 +51,7 @@ This work is about inferring dynamical modes of a given trajectory in a non-para
 **Maximilian Sieb**, Nikhil Mishra, Rocky Duan. US Patent. July, 2021.
 The idea here is the following: We have a bin from which we wish to pick items. For every pick, we want to avoid picking items which we have failed to pick before. However, because items in the bin might move around between subsequent picks, it is not obvious how to correlate objects across different picks to keep track of the failure count. In this work, we introduce a deep learning based approach to predict correspondences of objects given two scenes.
 
-<img src="assets/patent_scene_correspondence_2.png" width=600>
+<img src="assets/patent_scene_correspondence_2.png" width=400>
 
 
 ### Selected Projects
@@ -72,5 +72,5 @@ Learning translations between different languages has drawn a lot of focus recen
 
 This thesis revolves around the design of a ball-balancing plate and the anaylsis & implementation of different control algorithms. The thesis describes the entire design process: The CAD-design of the contraption, the dynamical & mechanical analysis, the control design & analysis, the microcontroller implementation, and experimental verification.
 
-<img src="assets/bachelor_thesis_vis.png" width=600>
+<img src="assets/bachelor_thesis_vis.png" width=400>
 
